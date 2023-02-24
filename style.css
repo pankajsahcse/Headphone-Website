@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+   
+}
+
+.headphone {
+    width: 100%;
+    height: 700px;
+    background-image: url(https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+    background-size: cover;
+    background-position: center;
+ 
+}
+
+#overlay {
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    /* width: 30%; */
+
+}
+
+#overlay h6 {
+    font-size: 15px;
+    font-weight: 200;
+
+}
+
+#overlay h2 {
+    font-weight: 600;
+    font-size: 35px;
+}
+
+#overlay button {
+    width: 120px;
+    height: 40px;
+    color: black;
+    background-color: #fff;
+    border-radius: 30px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+#text {
+    width: 100%;
+    /* height: 30vh; */
+    padding: 20px 50px;
+    /* background-color: rgb(58, 137, 137); */
+}
+
+#text h3 {
+    font-weight: 400;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.heading h2 {
+    text-align: center;
+}
+
+/* ---------------------------------------Image card--------------------------------------- */
+
+.img-card h2 {
+    margin-top: 30px;
+
+}
+
+
+
