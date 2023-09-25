@@ -1,4 +1,4 @@
 # Headphone-Website
 USING BOOTSTRAP , HTML,CSS,JAVASCRIPT
 
-<int src = "headphone">
+<int src = "headphone.png">
